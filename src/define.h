@@ -1,0 +1,4 @@
+#pragma once
+#define SCREEN_WIDTH 640
+#define SCREEN_HEIGHT 800
+#define BULLET_CAPACITY 128
